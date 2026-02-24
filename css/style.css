@@ -133,6 +133,7 @@ body {
   margin-bottom: 30px;
 }
 .hero-txt {
+  width: 430px;
   font-weight: 500;
   font-size: 22px;
   line-height: 145%;
@@ -155,15 +156,16 @@ body {
 .hero-right-circle {
 }
 .hero-first-bckg {
-  top: -150px;
-  right: -200px;
+  top: -250px;
+  right: -380px;
   position: absolute;
-  z-index: 0;
-  /* margin: 129 104 0 950; */
+  z-index: -2;
 }
 .hero-second-bckg {
+  top: -50px;
+  right: -395px;
   position: absolute;
-  z-index: 0;
+  z-index: -1;
 }
 .explain-section {
 }
