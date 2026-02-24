@@ -82,3 +82,124 @@ button {
 body {
   font-family: var(--font-family), sans-serif;
 }
+
+/**
+  |============================
+  | Main Styles
+  |============================
+*/
+
+.header {
+}
+.container {
+}
+.header-logo-image {
+}
+.header-logo {
+}
+.hero-section {
+}
+.section {
+}
+.hero-title {
+}
+.hero-txt {
+}
+.hero-btn {
+}
+.hero-left-circle {
+}
+.hero-central-circle {
+}
+.hero-right-circle {
+}
+.hero-first-bckg {
+}
+.hero-second-bckg {
+}
+.explain-section {
+}
+.explain-bckg-img {
+}
+.explain-title {
+}
+.explain-main-txt {
+}
+.explain-second-txt {
+}
+.explain-quiz-title {
+}
+.explain-pic-ctn {
+}
+.explain-quiz-list {
+}
+.explain-quiz-list-item {
+}
+.explain-circle {
+}
+.quiz-section {
+}
+.quiz-title {
+}
+.quiz-main-txt {
+}
+.quiz-second-txt {
+}
+.quiz-list {
+}
+.quiz-list-item {
+}
+.quiz-list-img {
+}
+.quiz-list-title {
+}
+.quiz-list-txt {
+}
+.quiz-bckg-image {
+}
+.helping-section {
+}
+.helping-title {
+}
+.helping-main-txt {
+}
+.helping-second-txt {
+}
+.helping-list {
+}
+.helping-list-item {
+}
+.helping-icon {
+}
+.helping-list-item-txt {
+}
+.helping-btn {
+}
+.helping-left-circle {
+}
+.helping-right-circle {
+}
+.helping-bckg-img {
+}
+.footer {
+}
+.footer-title {
+}
+.footer-txt {
+}
+.footer-form {
+}
+.footer-form-input {
+}
+.footer-btn {
+}
+.footer-central-circle {
+}
+.footer-right-circle {
+}
+.footer-bckg-img {
+}
+.footer-money-img {
+}
+.footer-time-img {
+}
