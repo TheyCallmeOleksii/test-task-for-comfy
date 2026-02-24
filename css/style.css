@@ -103,6 +103,8 @@ body {
   background: linear-gradient(90deg, #515151 0%, #1d1d1d 100%);
 }
 .container {
+  position: relative;
+  z-index: 1;
   max-width: 1024px;
   margin: 0 auto;
   padding: 0 16px;
@@ -116,6 +118,10 @@ body {
   color: var(--color-white);
 }
 .hero-section {
+  position: relative;
+  z-index: 1;
+  position: relative;
+  overflow: visible;
 }
 .section {
 }
@@ -149,10 +155,15 @@ body {
 .hero-right-circle {
 }
 .hero-first-bckg {
-  z-index: -1;
-  margin: 129 104 0 950;
+  top: -150px;
+  right: -200px;
+  position: absolute;
+  z-index: 0;
+  /* margin: 129 104 0 950; */
 }
 .hero-second-bckg {
+  position: absolute;
+  z-index: 0;
 }
 .explain-section {
 }
