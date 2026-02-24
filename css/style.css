@@ -134,9 +134,13 @@ body {
   margin-bottom: 55px;
 }
 .hero-btn {
+  border-radius: 8px;
+  width: 340px;
+  height: 68px;
+  background: linear-gradient(180deg, #ed769c 0%, #bb466b 100%);
   font-weight: 700;
   font-size: 20px;
-  color: #fff;
+  color: var(--color-white);
 }
 .hero-left-circle {
 }
@@ -145,6 +149,8 @@ body {
 .hero-right-circle {
 }
 .hero-first-bckg {
+  z-index: -1;
+  margin: 129 104 0 950;
 }
 .hero-second-bckg {
 }
