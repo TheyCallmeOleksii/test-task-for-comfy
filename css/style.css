@@ -91,7 +91,6 @@ body {
 
 .header {
   padding-top: 239px;
-  padding-right: auto;
 }
 .header-container {
   display: flex;
@@ -102,8 +101,8 @@ body {
 }
 .container {
   max-width: 1024px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
+  padding: 0 16px;
 }
 .header-logo-image {
 }
