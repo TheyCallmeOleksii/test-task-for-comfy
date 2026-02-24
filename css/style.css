@@ -90,12 +90,28 @@ body {
 */
 
 .header {
+  padding-top: 239px;
+  padding-right: auto;
+}
+.header-container {
+  display: flex;
+  border-radius: 40px;
+  width: 306px;
+  height: 75px;
+  background: linear-gradient(90deg, #515151 0%, #1d1d1d 100%);
 }
 .container {
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .header-logo-image {
 }
 .header-logo {
+  font-family: var(--font-family);
+  font-weight: 800;
+  font-size: 46px;
+  color: var(--color-white);
 }
 .hero-section {
 }
