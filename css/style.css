@@ -91,8 +91,11 @@ body {
 
 .header {
   padding-top: 239px;
+  margin-bottom: 21px;
 }
 .header-container {
+  padding-top: 9px;
+  padding-bottom: 10px;
   display: flex;
   border-radius: 40px;
   width: 306px;
@@ -117,10 +120,23 @@ body {
 .section {
 }
 .hero-title {
+  font-weight: 800;
+  font-size: 46px;
+  color: var(--color-dark);
+  width: 450px;
+  margin-bottom: 30px;
 }
 .hero-txt {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 145%;
+  color: var(--color-gray);
+  margin-bottom: 55px;
 }
 .hero-btn {
+  font-weight: 700;
+  font-size: 20px;
+  color: #fff;
 }
 .hero-left-circle {
 }
